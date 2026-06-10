@@ -7,14 +7,13 @@ A lightweight, scalable, and modern Mini Enterprise Resource Planning (ERP) syst
 ---
 
 ## ✨ Key Features
-- 🔐 **Secure Authentication:** Role-based access control (Admin, Manager, Employee).
-- 📦 **Inventory Management:** Add, update, and track stock levels in real-time.
-- 📊 **Interactive Dashboard:** Visual representation of key business metrics.
-- 📑 **Reporting:** Generate basic sales and inventory reports.
-- ⚡ **High Performance:** Optimized queries using Entity Framework Core.
-- 📱 **Responsive Design:** Works seamlessly on desktop and mobile browsers.
 
-*(Note: Apne actual features ke hisaab se upar wali lines edit kar lein)*
+- 👤 **User Authentication & Role-Based Access:** Secure login system with distinct roles (Admin, Manager, Staff) for controlled access.
+- 📦 **Inventory & Stock Management:** Real-time tracking of products, stock levels, and automated low-stock alerts.
+- 💰 **End-to-End Sales Management:** Complete sales pipeline handling, from quotations and order processing to final invoicing.
+- 🤝 **Customer Management (Mini-CRM):** Centralized database to manage customer profiles, contact details, and purchase history.
+- 📊 **Interactive Dashboard:** Visual representation of key business metrics (Total Revenue, Top Customers, Daily Sales, Stock Status).
+- 🛡️ **Secure & Scalable Architecture:** Built using Clean Architecture principles, Entity Framework Core, and secure MSSQL database connections.
 
 ---
 
@@ -22,8 +21,8 @@ A lightweight, scalable, and modern Mini Enterprise Resource Planning (ERP) syst
 - **Backend:** .NET 10 (ASP.NET Core)
 - **Database:** Microsoft SQL Server (MSSQL)
 - **ORM:** Entity Framework Core
-- **Frontend:** HTML5, CSS3, JavaScript *(Ya agar Blazor/React use kiya hai to wo likhein)*
-- **Architecture:** MVC / Clean Architecture *(Jo bhi use kiya ho)*
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Architecture:** MVC / Clean Architecture 
 
 ---
 
